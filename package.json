@@ -1,6 +1,6 @@
 {
   "name": "linkedfilelist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Double Linked File List, A simple database solution, but highly scalable. Each entry is a file, with `id` as its filename.  ",
   "main": "./lib/LinkedFileList.js",
   "directories": {
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Daniel-Chin/LinkedFileList/issues"
   },
-  "homepage": "https://github.com/Daniel-Chin/LinkedFileList#readme"
+  "homepage": "https://github.com/Daniel-Chin/LinkedFileList#readme",
+  "dependencies": {
+    "shell-quote": "^1.7.2"
+  },
+  "devDependencies": {
+    "@daniel.chin/interactivetester": "^1.0.3"
+  }
 }

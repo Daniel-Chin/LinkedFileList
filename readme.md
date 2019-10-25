@@ -20,6 +20,8 @@ const id_2 = db.add({payload: "slap like now"});
 db.modify(id_2, {payload: "slap like now plz"});
 db.display();
 
+db.git('commit message'); // this message is shell-quoted  
+
 db.diagnose();
 ```
 
