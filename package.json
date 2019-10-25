@@ -1,6 +1,6 @@
 {
   "name": "linkedfilelist",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Double Linked File List, A simple database solution, but highly scalable. Each entry is a file, with `id` as its filename.  ",
   "main": "./lib/LinkedFileList.js",
   "directories": {
