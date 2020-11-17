@@ -2,6 +2,8 @@
 Each entry is a file, with `id` as its filename.  
 A simple database solution, but highly scalable.  
 
+NPM page: https://www.npmjs.com/package/linkedfilelist  
+
 ## Usage
 Code:  
 ```js
