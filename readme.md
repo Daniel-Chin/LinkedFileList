@@ -1,6 +1,6 @@
 # Double Linked File List
 Each entry is a file, with `id` as its filename.  
-A simple database solution, but highly scalable.  
+A simple database solution, but highly scalable on systems that use hashmap to store files.  
 
 NPM page: https://www.npmjs.com/package/linkedfilelist  
 
